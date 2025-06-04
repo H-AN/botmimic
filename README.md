@@ -20,6 +20,8 @@
 
 此版本是为了 控制bot与人类进行更好的配合玩法修改的版本。
 
+视频效果 https://www.youtube.com/watch?v=8LNV8mNezl0
+
 Bot Mimic Zombie Mode Version
 ==========
 requires SourceMod 1.9-6084 or higher for the new OnPlayerRunCmdPost forward.
